@@ -1,0 +1,3 @@
+Vantagem PaaS
+
+Permite reduzir o tempo gasto a programar pois a equipa nao tem de configurar ou programar os componentes pre-programados incorporados na plataforma como funcionalidades de seguranca, fluxos de trabalho e diretorios ou ferramentas de pesquisa.
