@@ -1,0 +1,4 @@
+A crescente variedade de dispositivos móveis torna imperativa a construção de soluções que funcionem numa gama de dispositivos, de modo a aproveitar todas as oportunidades de mercado.
+
+A maioria dos fornecedores de PaaS dão-lhe opções de desenvolvimento para múltiplas plataformas, tais como aplicações desktop e móveis. A utilização de uma plataforma para construir uma aplicação a ser implantada em múltiplos canais, incluindo uma gama de dispositivos conectados, é uma abordagem rápida e rentável que permite a escalabilidade.
+
