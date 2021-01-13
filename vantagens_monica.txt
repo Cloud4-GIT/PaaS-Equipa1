@@ -1,0 +1,6 @@
+Vantagem de usar um serviço PaaS
+
+Gerir eficientemente o ciclo de vida das aplicações. 
+A PaaS proporciona-lhe todas as capacidades de que precisa para suportar o ciclo de vida 
+completo das aplicações Web: criação, teste, implementação, gestão e atualização 
+no mesmo ambiente integrado.
