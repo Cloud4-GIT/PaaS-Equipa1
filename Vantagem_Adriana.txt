@@ -1,0 +1,1 @@
+Acrescentar capacidades de desenvolvimento sem aumentar as equipas. Os componentes da Plataforma como Serviço podem oferecer à sua equipa de desenvolvimento novas capacidades, sem que tenha de aumentar a equipa com membros que tenham as competências adequadas.
