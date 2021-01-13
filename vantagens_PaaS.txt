@@ -1,1 +1,0 @@
-Como as organizações que usam PaaS podem gerenciar seus aplicativos e dados, a perda de controle não é um problema importante, como costuma acontecer ao usar a infraestrutura ou aplicativos em nuvem
